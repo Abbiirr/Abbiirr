@@ -10,7 +10,7 @@
 
 ### I am Abir Hossain
 
-### Currently studying Software Engineering at Islamic University of Technology (IUT)
+### Graduated from Islamic University of Technology (IUT) with BSc in Software Engineering(SWE)
 
 <!--
 **Abbiirr/Abbiirr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
